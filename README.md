@@ -1,1 +1,2 @@
-# aibd_straczek
+# Analiza i Bazy Danych - Jakub Strączek
+
